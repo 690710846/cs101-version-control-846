@@ -16,3 +16,6 @@
 - Game Development
 
 ## Skills
+- Problem solving
+- C basics
+- Teamwork
